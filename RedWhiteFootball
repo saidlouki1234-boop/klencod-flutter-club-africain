@@ -1,0 +1,15 @@
+RedWhiteFootball/
+├── Assets/
+│   ├── Scenes/
+│   │   ├── MainMenu.unity
+│   │   └── Match.unity
+│   ├── Scripts/
+│   │   ├── PlayerController.cs
+│   │   ├── FootballBall.cs
+│   │   ├── MatchManager.cs
+│   │   └── FollowCamera.cs
+│   ├── Prefabs/
+│   ├── Materials/
+│   ├── Models/
+│   └── UI/
+└── ProjectSettings/
